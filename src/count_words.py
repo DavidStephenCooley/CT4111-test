@@ -1,2 +1,2 @@
 def count_words(s):
-    return len(s.split("e"))
+    return len(s.split())
